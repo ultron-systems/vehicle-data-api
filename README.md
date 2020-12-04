@@ -1,2 +1,2 @@
-# vehicle-data-api
+# Vehicle data API
 Vehicle data API
